@@ -14,7 +14,7 @@ export default function Form() {
       </div>
 
       <form action="" className=" flex flex-col">
-        <div className=" flex">
+        <div className=" flex sm:flex flex-col">
           <input
             type="text"
             className=" flex-1 m-5 border-black rounded-xl px-10 py-2  shadow-xl shadow-slate-400 "
