@@ -6,9 +6,10 @@ export default function Form() {
           Get in touch
         </h1>
         <p className="text-center  text-xl py-2 leading-8 text-gray-600 max-sm:text-[14.7px]">
-          You can type in the details here, but unfortunately this will not
-          work. But do not worry if I build your form that will work. <br />
-          I can user React.js and TailwindCSS in frontend. <br />
+          Although you can provide details here, they may not function
+          correctly. However, there's no need to worry because I am proficient
+          in using React.js and TailwindCSS for frontend development. If you
+          allow me to create the form, it will function properly. <br />
         </p>
       </div>
 
