@@ -1,6 +1,6 @@
 export default function Form() {
   return (
-    <div className=" text-center p-5">
+    <div className=" text-center p-5 flex flex-col items-center">
       <div>
         <h1 className="  my-10 text-center text-4xl  max-sm:text-2xl">
           Get in touch
@@ -9,11 +9,11 @@ export default function Form() {
           Although you can provide details here, they may not function
           correctly. However, there's no need to worry because I am proficient
           in using React.js and TailwindCSS for frontend development. If you
-          allow me to create the form, it will function properly. <br />
+          allow me to create the form for you, it will function properly. <br />
         </p>
       </div>
 
-      <form action="" className=" flex flex-col">
+      <form action="" className=" pt-5 flex flex-col w-2/4">
         <div className=" flex sm:flex flex-col">
           <input
             type="text"
